@@ -1,4 +1,3 @@
-
 # Business-Insights-360 
 ## Project Overview
 #### AtliQ Hardware, a growing electronics company, faced challenges in Latin America. They needed quick, smart data-based decisions. To help, I created an Power BI dashboard for their Finance, Sales, Marketing, and Supply Chain teams, enabling better data analysis and decision-making.
